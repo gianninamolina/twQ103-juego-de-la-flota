@@ -1,11 +1,14 @@
-# Título del trabajo
+# JUEGO DE LA FLOTA
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El clasico juego de hundir la flota, sera solo de un jugador (usuario vs programa), se colocaran dos tableros y el programa colocara sus barcos al azar asi como al jugador se le pedira que haga lo mismo mediante coordenadas. Por turnos iran intentando averiguar la posicion de todos los barcos del oponente , alzandose con la victoria quien destruya la flota contraria.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Cristina Costas (github:CristinaCostas) c.costas@alumnos.upm.es
+Dalila Martinez (github:DalilaMB) dalila.martinez.baez@alumnos.upm.es
+Giannina Molina (github:Giannina Molina Pérez) giannina.olina.perez@alumnos.upm.es
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Aprender a usar ficheros (en este caso para crear un registro de jugador y puntuacion), uilizar varias funciones en un mismo programa, aprender a usar recursos como cronometro, randomizado y contadores, afianzar todos los conceptos vistos en clase, aprender a utilizar nuevos recursos para resolver los problemas que nos vayan surgiendo a lo largo del trabajo.
+
