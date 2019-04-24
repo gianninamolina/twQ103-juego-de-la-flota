@@ -4,9 +4,11 @@ El clasico juego de hundir la flota, sera solo de un jugador (usuario vs program
 
 ## Integrantes del equipo
 
-Cristina Costas (github:CristinaCostas) c.costas@alumnos.upm.es
-Dalila Martinez (github:DalilaMB) dalila.martinez.baez@alumnos.upm.es
-Giannina Molina (github:Giannina Molina Pérez) giannina.olina.perez@alumnos.upm.es
+Cristina Costas (github:CristinaCostas)
+
+Dalila Martinez (github:DalilaMB)
+
+Giannina Molina (github:Giannina Molina Pérez)
 
 ## Objetivos del trabajo
 
