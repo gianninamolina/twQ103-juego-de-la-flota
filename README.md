@@ -1,6 +1,6 @@
 # JUEGO DE LA FLOTA
 
-El clasico juego de hundir la flota, será solo de un jugador (usuario vs programa), se colocaran dos tableros y el jugador colocara sus barcos en sus respectivas coordenadas (2 pequeño, 1 grandes y 2 medianos). El programa elegirá las coordenadas de sus barcos. Por turnos irán intentando averiguar la posicion de todos los barcos del oponente , alzandose con la victoria quien destruya la flota contraria.
+El clasico juego de hundir la flota, será solo de un jugador (usuario vs programa), se colocaran dos tableros y el jugador colocara sus barcos en sus respectivas coordenadas (2 pequeños, 1 grandes y 2 medianos). El programa elegirá las coordenadas de sus barcos. Por turnos irán intentando averiguar la posicion de todos los barcos del oponente , alzandose con la victoria quien destruya la flota contraria.
 
 ## Integrantes del equipo
 
