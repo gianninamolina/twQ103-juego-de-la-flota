@@ -1,0 +1,6 @@
+Lunes 10.00 1
+Lunes 10.30 1
+Martes 14.00 1
+Martes 15.30 1
+Miercoles 16.00 1
+Jueves 15.45 1
