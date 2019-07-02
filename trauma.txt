@@ -1,0 +1,7 @@
+Lunes 12.00 1
+Lunes 17.30 1
+Martes 14.00 1
+Miercoles 9.00 1
+Miercoles 10.30 1
+Jueves 15.45 1
+Sabado 8.00 1
