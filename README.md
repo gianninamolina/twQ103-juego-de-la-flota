@@ -1,6 +1,6 @@
-# JUEGO DE LA FLOTA
+# CITA CON EL MÉDICO
 
-El clasico juego de hundir la flota, será solo de un jugador (usuario vs programa), se colocaran dos tableros y el jugador colocara sus barcos en sus respectivas coordenadas (2 pequeños, 2 medianos y 1 grande). El programa elegirá las coordenadas de sus barcos. Por turnos irán intentando averiguar la posicion de todos los barcos del oponente , alzandose con la victoria quien destruya la flota contraria.
+Se trata de introducir tus datos como tu nombre, tu DNI, tu edad y tu sexo para el sistema, ya que son necesarios para buscar tu ficha médica. A continuación, puedes sacar cita con traumatología, dermatología, ginecología y cardiología, cada rama con sus respectivas citas disponibles. 
 
 ## Integrantes del equipo
 
@@ -12,5 +12,5 @@ Giannina Molina (github:Giannina Molina Pérez)
 
 ## Objetivos del trabajo
 
-Aprender a usar ficheros (en este caso para crear un registro de jugador), utilizar varias funciones en un mismo programa, aprender a usar recursos como  afianzar todos los conceptos vistos en clase, aprender a utilizar nuevos recursos para resolver los problemas que nos vayan surgiendo a lo largo del trabajo.
+Aprender a usar ficheros (en este caso para crearcitas disponibles con el médico), utilizar varias funciones en un mismo programa, aprender a usar recursos como  afianzar todos los conceptos vistos en clase, aprender a utilizar nuevos recursos para resolver los problemas que nos vayan surgiendo a lo largo del trabajo.
 
