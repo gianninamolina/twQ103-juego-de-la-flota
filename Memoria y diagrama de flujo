@@ -1,0 +1,10 @@
+CITA CON EL MÉDICO
+El programa consiste en sacar una cita con cuatro tipos de especialistas. 
+En primer lugar, para identificarte en el sistema debes dar tu nombre, tus apellidos y tu DNI (con letra). 
+El sistema te pide más información, tu edad, sexo y si eres fumador.
+A continuación, te da a elegir entre sacar cita con traumatología, dermatología, ginecología o cardiología. A pulsar un numero (1,2,3,4) para elegir. Te da las citas que pueden estar o no disponibles durante la semana, es decir, las fechas y horas que está cada especialista en su consulta. Al elegir, pueden pasar dos cosas, que la cita esté disponible o que ya está ocupada, dándote la opción de escoger otra. 
+
+
+
+
+https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A726d5d46-54fb-4464-a82e-4eeddb609521
